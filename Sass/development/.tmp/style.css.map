@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAEA,UAUC;EATG,WAAW,EAAE,eAAe;EAC5B,GAAG,EAAE,yCAAyC;EAC9C,GAAG,EAAE,wUAA4E;EAKjF,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;;AAGtB,UAUC;EATG,WAAW,EAAE,gBAAgB;EAC7B,GAAG,EAAE,0CAA0C;EAC/C,GAAG,EAAE,8UAA6E;EAKlF,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;;AClBtB,KAAM;EACL,QAAQ,EAAE,QAAQ;EAClB,IAAI,EAAE,GAAG;EACT,GAAG,EAAE,GAAG;EACR,UAAU,EAAE,QAAQ;EACpB,WAAW,EAAE,QAAQ",
+"sources": ["file:///Volumes/Files/ivanchacon/Documents/Initial-8/Developmen/0.1.0/Sass/development/sass/style/_fonts.scss","file:///Volumes/Files/ivanchacon/Documents/Initial-8/Developmen/0.1.0/Sass/development/sass/style/style.scss"],
+"names": [],
+"file": "style.css"
+}

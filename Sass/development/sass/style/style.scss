@@ -1,0 +1,12 @@
+// Import all sass/scss files you use.
+
+@import "fonts";
+@import "variables";
+
+.logo {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -145.5px;
+	margin-left: -179.5px; 
+}
