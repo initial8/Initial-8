@@ -38,6 +38,7 @@
 	_Jade
 	_CSS
 	_Sass (Ruby)
+	_Less
 	_JavaScript
 
 	DISTRIBUTION
